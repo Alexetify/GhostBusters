@@ -289,13 +289,14 @@ body
     line-height: 1.2;
     color: #A5A5A5;
  }
- .section-title-active 
+ .section-title.active 
  {
     font-weight: 900;
     font-size: 24px;
     line-height: 1.2;
     color: #363636;
     margin-right: 30px;
+    margin-left: 30px;
  }
  .tabs-content
  {
